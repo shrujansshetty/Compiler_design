@@ -1,3 +1,4 @@
+<pre>
 Designed a compiler for the following hypothetical language:
 X: integer ;
 Procedure foo( b : integer )
@@ -10,4 +11,4 @@ else
 printf( “A mystery” );
 end if;
 end foo
-# Compiler_design
+</pre>
